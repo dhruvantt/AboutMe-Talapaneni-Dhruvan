@@ -15,8 +15,10 @@ Student, builder, and lifelong beginner
 ## 01 | Courses I've Taken
 
 | Course | Status |
-| --- | --- |
-| Single Page Web Application | Completed |
+| Python 101 | Completed |
+| Python for Data science | Completed  |
+| Python for Machine Learning | Completed |
+| Single Page Web Application | Just started |
 
 ---
 
@@ -32,9 +34,6 @@ Used to implement dynamic interactive logic across the application.
 
 ### GitHub
 Used to host and version control project files and maintain repository history.
-
-### Vercel
-Used to deploy the web application online for accessibility and sharing.
 
 ### Gemini AI
 Used as an AI thinking partner to help structure HTML templates, design CSS layouts, and understand deployment workflows.
