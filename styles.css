@@ -1,0 +1,160 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 * \{\
+    box-sizing: border-box;\
+    margin: 0;\
+    padding: 0;\
+\}\
+\
+body \{\
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\
+    line-height: 1.6;\
+    background-color: #f4f7f6;\
+    color: #333;\
+\}\
+\
+header \{\
+    background: #2c3e50;\
+    color: #fff;\
+    position: sticky;\
+    top: 0;\
+    z-index: 100;\
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);\
+\}\
+\
+.navbar \{\
+    display: flex;\
+    justify-content: space-between;\
+    align-items: center;\
+    max-width: 1000px;\
+    margin: 0 auto;\
+    padding: 1rem 2rem;\
+\}\
+\
+.logo \{\
+    font-weight: bold;\
+    font-size: 1.1rem;\
+\}\
+\
+.nav-links \{\
+    list-style: none;\
+    display: flex;\
+    gap: 20px;\
+\}\
+\
+.nav-links a \{\
+    color: #fff;\
+    text-decoration: none;\
+    transition: color 0.3s;\
+\}\
+\
+.nav-links a:hover \{\
+    color: #3498db;\
+\}\
+\
+.container \{\
+    max-width: 900px;\
+    margin: 30px auto;\
+    padding: 0 20px;\
+\}\
+\
+.card \{\
+    background: #fff;\
+    padding: 25px;\
+    margin-bottom: 25px;\
+    border-radius: 8px;\
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);\
+\}\
+\
+.card h2 \{\
+    margin-bottom: 15px;\
+    color: #2c3e50;\
+    border-bottom: 2px solid #ecf0f1;\
+    padding-bottom: 8px;\
+\}\
+\
+.course-table \{\
+    width: 100%;\
+    border-collapse: collapse;\
+    margin-top: 10px;\
+\}\
+\
+.course-table th, .course-table td \{\
+    border: 1px solid #ddd;\
+    padding: 12px;\
+    text-align: left;\
+\}\
+\
+.course-table th \{\
+    background-color: #f8f9fa;\
+    color: #2c3e50;\
+\}\
+\
+.skills-grid \{\
+    display: grid;\
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));\
+    gap: 15px;\
+\}\
+\
+.skill-category \{\
+    background: #fdfdfd;\
+    border: 1px solid #e1e8ed;\
+    padding: 15px;\
+    border-radius: 6px;\
+\}\
+\
+.skill-category h3 \{\
+    font-size: 1rem;\
+    color: #2980b9;\
+    margin-bottom: 5px;\
+\}\
+\
+.project-item \{\
+    margin-bottom: 20px;\
+\}\
+\
+.project-item h3 \{\
+    color: #34495e;\
+    font-size: 1.1rem;\
+\}\
+\
+.project-item a \{\
+    display: inline-block;\
+    margin-top: 5px;\
+    color: #2980b9;\
+    text-decoration: none;\
+\}\
+\
+.project-item a:hover \{\
+    text-decoration: underline;\
+\}\
+\
+.social-links \{\
+    list-style: none;\
+\}\
+\
+.social-links li \{\
+    margin-bottom: 8px;\
+\}\
+\
+footer \{\
+    text-align: center;\
+    padding: 20px;\
+    color: #7f8c8d;\
+    font-size: 0.9rem;\
+\}\
+\
+@media (max-width: 600px) \{\
+    .navbar \{\
+        flex-direction: column;\
+        gap: 10px;\
+    \}\
+    .nav-links \{\
+        gap: 10px;\
+    \}\
+\}}
