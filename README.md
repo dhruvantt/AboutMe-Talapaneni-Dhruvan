@@ -1,61 +1,55 @@
 # About Me - Single Page Web Application
 
-This repository contains my personal portfolio single-page web application built for my class assignment.
+This repository contains my personal portfolio single-page web application created for my class assignment. It introduces my background, coding courses, technical skills, and projects.
 
 ---
 
 ## Dhruvan Teja Talapaneni
 
-**School:** Aptakisic Jr High School
+**Aptakisic Jr High School · Grade 8**
 
-I am a student interested in coding, Python, data science, and machine learning. I enjoy learning how to write programs and use Python to work with data. I am continuing to improve my programming skills through different coding courses and projects.
+Student interested in coding, Python, data science, and machine learning
+
+I am a student interested in coding, Python, data science, and machine learning. I enjoy learning how to write programs and using Python to work with data. I am continuing to improve my programming skills through coding courses and projects.
 
 ---
 
 ## 01 | Courses I've Taken
 
-| Course                      | Status       |
-| --------------------------- | ------------ |
-
-| Python 101                  | Completed    |
-
-| Python for Data Science     | Completed    |
-
-| Python for Machine Learning | Completed    |
-
-| Single Page Web Application | Just Started |
+| **Course**                      | **Status**   |
+| ------------------------------- | ------------ |
+| **Python 101**                  | Completed    |
+| **Python for Data Science**     | Completed    |
+| **Python for Machine Learning** | Completed    |
+| **Single Page Web Application** | Just Started |
 
 ---
 
 ## 02 | Technical Skills
 
-Tools and technologies I use when learning and building coding projects.
+Tools and technologies I use while learning coding, working with data, and building machine learning projects.
 
 ### Python
 
-Used to create programs, solve problems, work with data, and build machine learning projects.
+My main programming language for creating programs, solving problems, working with data, and building machine learning projects.
 
 ### Data Science
 
-Used Python and data science libraries to analyze datasets and understand information.
+I use Python and data science libraries to analyze datasets, organize information, and find patterns in data.
 
 ### Machine Learning
 
-Worked with machine learning models including KNN, decision trees, SVM, PCA, and regression.
+I have worked with machine learning methods including KNN, decision trees, SVM, PCA, and regression.
 
 ### GitHub
 
-Used to host and version control project files and maintain repository history.
+I use GitHub to store and manage my coding projects and keep track of project files.
 
-**GitHub Profile:****dhruvantt**
+**GitHub Profile:** [github.com/dhruvantt](https://github.com/dhruvantt)
 
 ### Google Colab
 
-Used to write and run Python code for data science and machine learning projects.
-
-### AI Tools
-
-I use AI tools to help understand programming concepts, troubleshoot code, and improve my projects.
+I use Google Colab to write and run Python code for data science and machine learning projects.
 
 ---
 
@@ -63,29 +57,40 @@ I use AI tools to help understand programming concepts, troubleshoot code, and i
 
 ### About Me Portfolio Site
 
-A single-page web application created for my class assignment. The project introduces me, 
-lists my coding courses and skills, and shows some of my projects.
+A single-page web application created for my class assignment. The project introduces me, lists my coding courses and technical skills, and showcases my other projects.
 
-**Technologies Used:** Coding, GitHub, AI tools
+**Technologies Used:** HTML, CSS, GitHub, Vercel
+
+**GitHub:** [github.com/dhruvantt](https://github.com/dhruvantt)
 
 ### Predicting House Prices in Chicago
 
-A Python machine learning project that uses data to predict house prices in Chicago.
+A Python machine learning project that uses data to predict house prices in Chicago. The project uses data analysis and machine learning techniques to make predictions from housing data.
 
-**Project:**
-https://colab.research.google.com/drive/11JM1usICCzDpFnQ-wwM0Q29C0-P9WUAC
+**Technologies Used:** Python, Google Colab, Data Science, Machine Learning
+
+**Project:** [Open Google Colab Notebook](https://colab.research.google.com/drive/11JM1usICCzDpFnQ-wwM0Q29C0-P9WUAC)
 
 ### Olympic Archery Data
 
-A Python data project that works with Olympic archery data and uses data analysis to explore the information.
+A Python data science project that explores Olympic archery data. The project uses data analysis to examine the information and find useful patterns.
 
-**Project:**
-https://colab.research.google.com/drive/187z-Dm4IRESs0LCLUusG6eK-Bx3Uwie9
+**Technologies Used:** Python, Google Colab, Data Science
+
+**Project:** [Open Google Colab Notebook](https://colab.research.google.com/drive/187z-Dm4IRESs0LCLUusG6eK-Bx3Uwie9)
 
 ---
 
-## 04 | AI Tools
+## 04 | AI Usage
 
-I used **Gemini and ChatGPT** while working on my projects.
+### ChatGPT
 
-I used AI tools to help understand coding concepts, structure my projects, troubleshoot errors, and improve my code. I reviewed and tested the code before using it.
+I used ChatGPT to help understand programming concepts, troubleshoot coding errors, organize my project, and improve my code.
+
+### Gemini
+
+I used Gemini to help understand coding concepts, plan parts of my projects, troubleshoot problems, and improve my work.
+
+### How I Used AI
+
+I used AI tools as learning and coding assistants while working on my projects. I reviewed, tested, and made changes to the code before using it in my projects.
