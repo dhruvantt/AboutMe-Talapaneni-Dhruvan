@@ -8,8 +8,10 @@ This repository contains my personal portfolio single-page web application built
 Student, builder, and lifelong beginner
 
 - **School:** Aptakisic Junior High School
-- **Deliverables:** Single-page web application (`index.html`), CSS styling, and JavaScript logic.
-
+I am a middle school student who likes to learn an experiment,
+while taking part of robotics and Jr. Economics.
+Outside of school I like too code and play badminton.
+I like learning new skills and having fun.
 ---
 
 ## 01 | Courses I've Taken
@@ -34,7 +36,7 @@ Tools and technologies used regularly when building projects, from writing code 
 Used to host and version control project files and maintain repository history.
 
 ### Gemini AI
-Used as an AI thinking partner to help structure HTML templates, design CSS layouts, and understand deployment workflows.
+Used as an AI thinking partner to help structure HTML templates, and understand deployment workflows.
 
 ---
 
@@ -47,5 +49,4 @@ Used as an AI thinking partner to help structure HTML templates, design CSS layo
 ## AI Usage
 
 I used Gemini while completing this assignment:
-- I used Gemini to help structure the HTML template, design the CSS layout, and understand the workflow for deploying the project to Vercel.
-- I reviewed, modified, and tested all generated code and files before finalizing the project and uploading it to GitHub.
+- I used Gemini to help structure the HTML template, and understand the workflow for deploying the project to Vercel.
