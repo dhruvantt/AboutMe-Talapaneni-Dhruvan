@@ -49,6 +49,10 @@ Predicting house prices in Chicago
 
 https://colab.research.google.com/drive/11JM1usICCzDpFnQ-wwM0Q29C0-P9WUAC
 
+
+Olympic Archery Data
+
+https://colab.research.google.com/drive/187z-Dm4IRESs0LCLUusG6eK-Bx3Uwie9
 ---
 
 ## AI Usage
