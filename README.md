@@ -15,9 +15,13 @@ Student, builder, and lifelong beginner
 ## 01 | Courses I've Taken
 
 | Course | Status |
+
 | Python 101 | Completed |
+
 | Python for Data science | Completed  |
+
 | Python for Machine Learning | Completed |
+
 | Single Page Web Application | Just started |
 
 ---
@@ -25,12 +29,6 @@ Student, builder, and lifelong beginner
 ## 02 | Technical Skills
 
 Tools and technologies used regularly when building projects, from writing code to shipping it.
-
-### HTML & CSS
-Used to structure and style the single-page web application interface.
-
-### JavaScript
-Used to implement dynamic interactive logic across the application.
 
 ### GitHub
 Used to host and version control project files and maintain repository history.
@@ -43,9 +41,6 @@ Used as an AI thinking partner to help structure HTML templates, design CSS layo
 ## 03 | Projects
 
 ### About Me Portfolio Site
-`HTML` · `CSS` · `JavaScript` · `GitHub` · `Vercel` · `Gemini`
-
-A personal single-page portfolio web application built as a class assignment to showcase personal background, skills, and projects.
 
 ---
 
