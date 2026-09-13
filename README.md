@@ -44,6 +44,11 @@ Used as an AI thinking partner to help structure HTML templates, and understand 
 
 ### About Me Portfolio Site
 
+
+Predicting house prices in Chicago
+
+https://colab.research.google.com/drive/11JM1usICCzDpFnQ-wwM0Q29C0-P9WUAC
+
 ---
 
 ## AI Usage
