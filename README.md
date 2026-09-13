@@ -11,7 +11,9 @@ Aptakisic Jr High School · Grade 8
 
 ## Student interested in coding, data science, and machine learning
 
-I am a student interested in coding, Python, data science, and machine learning. I enjoy learning how to write programs and using Python to work with data. I am continuing to improve my programming skills through coding courses and projects.
+I am a student interested in coding, Python, data science, and machine learning. 
+I enjoy learning how to write programs and using Python to work with data. 
+I am continuing to improve my programming skills through coding courses and projects.
 
 01
 
