@@ -24,35 +24,20 @@ I am continuing to improve my programming skills through coding courses and proj
 | **Python 101**                  | Completed    |
 | **Python for Data Science**     | Completed    |
 | **Python for Machine Learning** | Completed    |
+| **Spark Civics**                | Just Started |
 | **Single Page Web Application** | Just Started |
 
 02
 
 ## Technical Skills
 
-Tools and technologies I use while learning coding, working with data, and building machine learning projects.
+Here is a summary of the tools and technologies used:
 
-### Python
-
-My main programming language for creating programs, working with data, and building machine learning projects.
-
-### Data Science
-
-I use Python and data science libraries to analyze datasets, understand information, and find patterns in data.
-
-### Machine Learning
-
-I have worked with machine learning models including KNN, decision trees, SVM, PCA, and regression.
-
-### GitHub
-
-I use GitHub to store and manage my coding projects and keep track of project files.
-
-[GitHub Profile →](https://github.com/dhruvantt)
-
-### Google Colab
-
-I use Google Colab to write and run Python code for data science and machine learning projects.
+* **[Python](https://github.com/dhruvantt?utm_source=gemini)**: Main programming language for building applications, data analysis, and machine learning models.
+* **Data Science & Analytics**: Leverages Python libraries to analyze datasets, gather insights, and discover patterns.
+* **Machine Learning**: Hands-on experience with models and techniques such as KNN, decision trees, SVM, PCA, and regression.
+* **[GitHub](https://github.com/dhruvantt?utm_source=gemini)**: Platform used for version control, managing project files, and repository storage.
+* **Google Colab**: Cloud-based environment for executing Python code for data science and machine learning projects.
 
 03
 
@@ -64,7 +49,7 @@ HTML · CSS · GitHub · Vercel
 
 A single-page website created for my class assignment. It introduces me, shows my coding courses and skills, and includes my coding projects.
 
-[View on GitHub →](https://github.com/dhruvantt)
+[View on GitHub →]([https://github.com/dhruvantt](https://about-me-talapaneni-dhruvan.vercel.app/))
 
 ### Predicting House Prices in Chicago
 
